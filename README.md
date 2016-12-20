@@ -1,6 +1,6 @@
 # WinformCalculator
 ## Origin link
-<a href="http://cafe.naver.com/cafec/361447" target="_blank">http://cafe.naver.com/cafec/361447</a>
+<a href="http://cafe.naver.com/cafec/361447" target="_blank">C언어까페</a>
 ## Dev tool
 Visual Studio Community
 ## Fixed and update
